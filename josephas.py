@@ -1,6 +1,6 @@
 
 #josephas program in python
-l=[1,2,3,4,5] #numver of peoples in assuming in circle
+l=[1,2,3,4,5] #number of peoples  assuming in circular fashion
 index=0 #starting person
 k=2 #kth person to kill
 k=k-1 # decreasing k as we starting from 0 location
