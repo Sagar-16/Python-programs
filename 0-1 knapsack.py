@@ -16,4 +16,4 @@ def knapsack(weights,values,w,n):
 
 result = knapsack(weights,values,w,n)
 print(result)  #printing result
-#13
+#13            #answer
