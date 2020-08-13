@@ -23,3 +23,20 @@ m(ip,op) #calling function
 for k in hash:  #printing all substrings
     if hash[k]==1:
         print(k)
+
+#answer
+'''d
+ c
+ cd
+ b
+ bd
+ bc
+ bcd
+ a
+ ad
+ ac
+ acd
+ ab
+ abd
+ abc
+ abcd'''
