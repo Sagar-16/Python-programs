@@ -1,3 +1,6 @@
+#Stack program using list in python
+
+
 class stack:
   def __init__(self):
     self.l=[]
