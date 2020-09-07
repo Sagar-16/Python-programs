@@ -1,3 +1,7 @@
+# two number pair sum problem using hashing
+#tc - O(n)
+#sc -O(n)
+
 hash={}
 for i in range(1000):
   hash[i]=0
