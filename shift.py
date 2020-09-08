@@ -1,3 +1,4 @@
+# shifting of number from numbers without changing relative ordering of numbers
 def shift(numbers,number):
   i=0
   j=0
@@ -21,5 +22,6 @@ def main():
 
 main()
 # [3,2,2,2,1,4,2,2] 2
+# [3,1,4,2,2,2,2,2] 2
 
 
