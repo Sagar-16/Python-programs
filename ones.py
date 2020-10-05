@@ -1,6 +1,8 @@
-n=3
+#Enter the Number
+n=input("Please Enter The Number")
 ones=0
 zeros=0
+#Taking Empty List
 l=[]
 op=''
 def solve(n,ones,zeros,op):
