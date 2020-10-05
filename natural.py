@@ -1,4 +1,5 @@
-n = 5 #taking input
+#Enter The Number For Which You Need To Find The Sum
+n = input("Please Enter The Number")
 def printNatural(n): #function to print recursively
     if n == 1:      #base case
         print(1,end =' ')
